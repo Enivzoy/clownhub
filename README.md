@@ -11,4 +11,5 @@ goofy ps99 hack
 
 use clownhub because im cool and kt took 2 weeks to code pls
 ```lua 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Enivzoy/clownhub/main/src/exec.lua", true))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Enivzoy/clownhub/main/src/exec.lua", true))()
+```
