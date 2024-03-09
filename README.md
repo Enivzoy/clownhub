@@ -18,8 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Enivzoy/clownhub/main
 ```
 
 # Buying a key
-dm tyson06095 on discord to buy a key  
-its only 2.8$ crypto or a happy computer<3
+mail `intel_ii3` a huge and it should instantly mail you back with a message thats a url that'll be w your key and how to use it
 # Updates
 - V1
 first version
